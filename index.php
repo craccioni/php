@@ -1,7 +1,5 @@
 <?php
 
-	echo "coé 456";
-
-	echo "salve geral, suavidade?"
+	echo "123";
 
 ?>
